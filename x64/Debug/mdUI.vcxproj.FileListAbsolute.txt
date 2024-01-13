@@ -1,0 +1,3 @@
+C:\Users\ayush\source\repos\mdUI\x64\Debug\mdUI.vcxproj.CopyComplete
+C:\Users\ayush\source\repos\mdUI\x64\Debug\mdUI.exe
+C:\Users\ayush\source\repos\mdUI\x64\Debug\raylib.dll
